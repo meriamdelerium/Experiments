@@ -1,5 +1,5 @@
 #include <iostream>
-#include "include/functions.hpp"
+#include "include/functions.cpp"
 
 int main(){
 	int a = 8;
